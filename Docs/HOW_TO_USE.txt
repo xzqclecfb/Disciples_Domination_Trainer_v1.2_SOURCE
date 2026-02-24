@@ -1,0 +1,101 @@
+═══════════════════════════════════════════════════════════════
+  DISCIPLES: DOMINATION TRAINER - STANDALONE EDITION
+  Version 1.1 | February 2026
+═══════════════════════════════════════════════════════════════
+
+✅ READY TO USE - NO INSTALLATION REQUIRED
+
+This trainer works on ANY Windows 10/11 PC without installing:
+  ❌ Visual C++ Redistributable
+  ❌ .NET Framework
+  ❌ Any other dependencies
+
+═══════════════════════════════════════════════════════════════
+  QUICK START
+═══════════════════════════════════════════════════════════════
+
+1. Launch "Disciples: Domination" game
+2. Run "Disciples_Domination_Trainer_STANDALONE.exe" AS ADMINISTRATOR
+   (Right-click → Run as administrator)
+3. Click "CONNECT TO GAME" button
+4. Enable desired cheats and click "SET"
+
+═══════════════════════════════════════════════════════════════
+  FEATURES
+═══════════════════════════════════════════════════════════════
+
+📦 RESOURCES (8 types):
+  • Wood Supply
+  • Gold Reserve
+  • Iron Stockpile
+  • Skill Points
+  • Arcane Flux
+  • Primal Essence
+  • Divine Essence
+  • Unholy Essence
+
+⚔️ COMBAT & EXPERIENCE (5 features):
+  • God Mode (Invincibility)
+  • Infinite Squad Health
+  • Unlimited Mana/Energy
+  • One-Hit Kill
+  • Maximum Experience Multiplier
+
+🔒 FREEZE VALUES:
+  Enable "Lock" checkbox to keep resource values constant
+
+═══════════════════════════════════════════════════════════════
+  TROUBLESHOOTING
+═══════════════════════════════════════════════════════════════
+
+❓ "Game process not found"
+  ✅ Make sure the game is running
+  ✅ Run trainer AS ADMINISTRATOR
+  ✅ Game process must be one of:
+      - Disciples_Domination.exe
+      - DisciplesDomination.exe
+      - Disciples.exe
+      - Domination.exe
+
+❓ "Failed to write memory"
+  ✅ Run trainer AS ADMINISTRATOR
+  ✅ Disable antivirus temporarily
+  ✅ Make sure you clicked "CONNECT TO GAME" first
+
+❓ Windows Defender blocks it
+  ✅ Add to exclusions (Settings → Virus & threat protection → Exclusions)
+  ✅ This is a false positive (common for memory editors)
+
+═══════════════════════════════════════════════════════════════
+  TECHNICAL INFO
+═══════════════════════════════════════════════════════════════
+
+File Size: 54.5 MB
+Architecture: x64 only
+Runtime: Static (no dependencies)
+System DLLs: KERNEL32, USER32, GDI32, COMCTL32 (all built into Windows)
+
+Portable: YES
+  • Works from USB drive
+  • Works from any folder
+  • No registry modifications
+  • No config files created
+
+═══════════════════════════════════════════════════════════════
+  SAFETY & LEGAL
+═══════════════════════════════════════════════════════════════
+
+⚠️ USE AT YOUR OWN RISK
+  • Save your game before using
+  • Use only in single-player mode
+  • Do NOT use in online/multiplayer
+  • Addresses may break after game updates
+
+This is an educational project demonstrating:
+  • Win32 API programming
+  • Process memory manipulation
+  • Modern C++ Win32 UI design
+
+═══════════════════════════════════════════════════════════════
+
+Enjoy the game! 🎮
