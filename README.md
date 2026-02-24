@@ -9,8 +9,8 @@
 
 Modern, standalone trainer with clean UI and advanced memory manipulation features.
 
-![Screenshot](<img width="809" height="628" alt="image" src="https://github.com/user-attachments/assets/011a5be8-3059-455e-bc32-e5ff0a1ea6ed" />
-)
+<img width="809" height="628" alt="image" src="https://github.com/user-attachments/assets/3d6e03cb-761e-4174-811f-7aceddf6e50c" />
+
 
 ---
 
@@ -257,5 +257,6 @@ If you find this useful:
 [Download](../../releases) • [Documentation](docs/) • [Report Bug](../../issues)
 
 </div>
+
 
 
