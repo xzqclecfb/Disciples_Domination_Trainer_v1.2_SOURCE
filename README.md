@@ -198,6 +198,14 @@ Contributions welcome! Please:
 
 ## 📝 Changelog
 
+### v1.2 (February 2026)
+- 🎨 Gold accent colour scheme (replaces plain blue)
+- ✨ Owner-draw buttons with gradient fill and pressed state
+- 📐 Two-column layout for Combat & Experience section
+- 🟢 Colour-coded status indicator dot in footer bar
+- 🔝 Gold accent stripe at top of window for premium feel
+- 📝 Compact window (920×680) with tighter, pixel-perfect spacing
+
 ### v1.1 (February 2026)
 - ✨ Modern dark UI with perfect alignment
 - 🎯 8 resource types support
